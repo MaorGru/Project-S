@@ -1,0 +1,7 @@
+my/test/entities/ISentence.class
+my/test/entities/Word.class
+my/test/config/AppConfig.class
+my/test/Memory.class
+my/test/App.class
+my/test/entities/Sentence.class
+my/test/entities/IWord.class
